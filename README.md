@@ -1,6 +1,6 @@
 ### 👋 Hi, there, welcome to my github repo
 
-[![Website](https://img.shields.io/badge/Visit%20my-Website-blue?style=for-the-badge&logo=github)](https://rmsrosa.github.io/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Website](https://img.shields.io/badge/Visit%20my-Website-blue?style=for-the-badge&logo=github)](https://rmsrosa.github.io/)
 
 <!--
 **rmsrosa/rmsrosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=rmsrosa&show_icons=true&bg_color=ffffff&title_color=40a0ff&text_color=ffa010&icon_color=20ff50&hide_border=true&count_private=true" /> 
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=rmsrosa&show_icons=true&bg_color=ffffff&title_color=40a0ff&text_color=eea010&icon_color=20aa50&hide_border=true&count_private=true" /> 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmsrosa&hide=javascript,html,jupyter%20notebook&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
