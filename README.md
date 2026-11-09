@@ -20,7 +20,7 @@ Among other hobbies, I am also a **homebrewer,** brewing beer since 2000, and on
 
 <p><img align="left" src="https://github-stats-extended.vercel.app/api?username=rmsrosa&show_icons=true&bg_color=ffffff&title_color=40a0ff&text_color=eea010&icon_color=20aa50&hide_border=true&count_private=true" /></p>
 
-[![Top Langs](https://github-stats-extended.vercel.app/api?/top-langs/?username=rmsrosa&hide=javascript,html,jupyter%20notebook&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=rmsrosa&hide=javascript,html,jupyter%20notebook&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **rmsrosa/rmsrosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
